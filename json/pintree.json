@@ -419,6 +419,13 @@
                 "title": "请稍候…",
                 "icon": "https://logo.clearbit.com/kimivod.com",
                 "url": "https://kimivod.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731059633830,
+                "title": "分享交流下载字幕平台 - SubHD",
+                "icon": "https://logo.clearbit.com/subhd.tv",
+                "url": "https://subhd.tv/"
               }
             ]
           },
@@ -1745,27 +1752,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1600132559000,
-                "title": "AnyKnew - 效率资讯 - 高效读新闻, 5分钟遍历全网热点",
-                "icon": "https://logo.clearbit.com/www.anyknew.com",
-                "url": "https://www.anyknew.com/#/"
-              },
-              {
-                "type": "link",
-                "addDate": 1600132559000,
-                "title": "AnywhereAnything",
-                "icon": "https://logo.clearbit.com/lackar.com",
-                "url": "http://lackar.com/aa/"
-              },
-              {
-                "type": "link",
-                "addDate": 1642845357000,
-                "title": "THE.TOP 银来电子「拓扑排行榜」每日TOP热点资讯聚合",
-                "icon": "https://logo.clearbit.com/the.top",
-                "url": "https://the.top/frame/list/0"
-              },
-              {
-                "type": "link",
                 "addDate": 1730219202393,
                 "title": "NewsNow | 最热",
                 "icon": "https://logo.clearbit.com/newsnow.busiyi.world",
@@ -2802,13 +2788,6 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1615024213000,
-                "title": "不求人导航@影视 | 专业影视资源导航",
-                "icon": "https://logo.clearbit.com/video.bqrdh.com",
-                "url": "https://video.bqrdh.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1600132559000,
                 "title": "大佬导航 - 今天开始做大佬",
                 "icon": "https://logo.clearbit.com/dalao.ru",
@@ -2823,13 +2802,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1601696095000,
-                "title": "思谷搜 · Siguso.com | 全能高效的搜索导航,大航海时代的藏宝图！",
-                "icon": "https://logo.clearbit.com/siguso.com",
-                "url": "https://siguso.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1664260507515,
                 "title": "Tbox导航 | 只收录优质在线工具的导航网站",
                 "icon": "https://logo.clearbit.com/www.tboxn.com",
@@ -2841,27 +2813,6 @@
                 "title": "快搜 - 搜索快人一步 - Google",
                 "icon": "https://logo.clearbit.com/search.chongbuluo.com",
                 "url": "https://search.chongbuluo.com/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1659163634625,
-            "title": "Mac软件",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1650680123000,
-                "title": "MAC软件下载02",
-                "icon": "https://logo.clearbit.com/www.macbl.com",
-                "url": "https://www.macbl.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1650680153000,
-                "title": "Mac软件下载03",
-                "icon": "https://logo.clearbit.com/www.zhiniw.com",
-                "url": "https://www.zhiniw.com/"
               }
             ]
           },
@@ -3159,38 +3110,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1713023848070,
-                "title": "ChatK",
-                "icon": "https://logo.clearbit.com/chat.gking.me",
-                "url": "https://chat.gking.me/?1713023504023#/"
-              },
-              {
-                "type": "link",
                 "addDate": 1702649109889,
                 "title": "chatanywhere/GPT_API_free: Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/chatanywhere/GPT_API_free"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1718532647909,
-            "title": "TTS",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1718532651882,
-                "title": "Text To Speech - 在线文本转语音",
-                "icon": "https://logo.clearbit.com/www.text-to-speech.cn",
-                "url": "https://www.text-to-speech.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1718532658646,
-                "title": "TTS Online.海豚Ai",
-                "icon": "https://logo.clearbit.com/www.ttson.cn",
-                "url": "https://www.ttson.cn/"
               }
             ]
           },
@@ -3438,6 +3361,13 @@
             "title": "Felo - 你的免费AI智能搜索引擎",
             "icon": "https://logo.clearbit.com/felo.ai",
             "url": "https://felo.ai/search"
+          },
+          {
+            "type": "link",
+            "addDate": 1730614810979,
+            "title": "Bilin AI - AI助力的无偏见和幻觉的全球信息搜索",
+            "icon": "https://logo.clearbit.com/bilin.ai",
+            "url": "https://bilin.ai/zh-CN"
           }
         ]
       },
@@ -3467,6 +3397,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1721539143580,
+                "title": "Youtube Downloader - Free Online Youtube Video Downloader | vget.xyz",
+                "icon": "https://logo.clearbit.com/vget.xyz",
+                "url": "https://vget.xyz/"
+              },
+              {
+                "type": "link",
                 "addDate": 1714403650277,
                 "title": "cobalt",
                 "icon": "https://logo.clearbit.com/cobalt.tools",
@@ -3478,13 +3415,6 @@
                 "title": "Twitter Video Downloader Online HD - Twitter Vid",
                 "icon": "https://logo.clearbit.com/twittervid.com",
                 "url": "https://twittervid.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1721539143580,
-                "title": "Youtube Downloader - Free Online Youtube Video Downloader | vget.xyz",
-                "icon": "https://logo.clearbit.com/vget.xyz",
-                "url": "https://vget.xyz/"
               },
               {
                 "type": "link",
@@ -4150,6 +4080,48 @@
                 "title": "nepsyn/minaplay: MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/nepsyn/minaplay"
+              },
+              {
+                "type": "link",
+                "addDate": 1730537624941,
+                "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI: Easily train a good VC model with voice data <= 10 mins!",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI"
+              },
+              {
+                "type": "link",
+                "addDate": 1730538384425,
+                "title": "521xueweihan/GitHub520: :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/521xueweihan/GitHub520"
+              },
+              {
+                "type": "link",
+                "addDate": 1730538721389,
+                "title": "Pintree-io/pintree: An intuitive tool for managing and exporting your local bookmarks into a shareable website.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Pintree-io/pintree?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1731143706785,
+                "title": "lovasoa/whitebophir: Online collaborative Whiteboard that is simple, free, easy to use and to deploy",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/lovasoa/whitebophir"
+              },
+              {
+                "type": "link",
+                "addDate": 1731145521129,
+                "title": "amir1376/ab-download-manager: A Download Manager that speeds up your downloads",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/amir1376/ab-download-manager"
+              },
+              {
+                "type": "link",
+                "addDate": 1731146348677,
+                "title": "jhj0517/AdvancedLivePortrait-WebUI: gradio WebUI for AdvancedLivePortrait",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/jhj0517/AdvancedLivePortrait-WebUI"
               }
             ]
           },
@@ -4318,6 +4290,13 @@
                 "title": "首页 - HelloGitHub",
                 "icon": "https://logo.clearbit.com/hellogithub.com",
                 "url": "https://hellogithub.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730870569760,
+                "title": "Austin's Bio page",
+                "icon": "https://logo.clearbit.com/the.top",
+                "url": "https://the.top/"
               }
             ]
           },
@@ -4561,6 +4540,13 @@
           },
           {
             "type": "link",
+            "addDate": 1730301451160,
+            "title": "电影海报--The Movie Database (TMDB)",
+            "icon": "https://logo.clearbit.com/www.themoviedb.org",
+            "url": "https://www.themoviedb.org/"
+          },
+          {
+            "type": "link",
             "addDate": 1718118224821,
             "title": "FRE123 免费资源共享平台",
             "icon": "https://logo.clearbit.com/www.fre321.com",
@@ -4635,13 +4621,6 @@
             "title": "有用经验",
             "icon": "https://logo.clearbit.com/yyjingyan.com",
             "url": "https://yyjingyan.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1722614047383,
-            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
-            "icon": "https://logo.clearbit.com/zh.singlelogin.re",
-            "url": "https://zh.singlelogin.re/"
           },
           {
             "type": "link",
@@ -5002,13 +4981,6 @@
           },
           {
             "type": "link",
-            "addDate": 1730301451160,
-            "title": "电影海报--The Movie Database (TMDB)",
-            "icon": "https://logo.clearbit.com/www.themoviedb.org",
-            "url": "https://www.themoviedb.org/"
-          },
-          {
-            "type": "link",
             "addDate": 1730359005447,
             "title": "Ai抠图--Finegrain Object Cutter - a Hugging Face Space by finegrain",
             "icon": "https://logo.clearbit.com/huggingface.co",
@@ -5027,6 +4999,76 @@
             "title": "天地图·在线地图",
             "icon": "https://logo.clearbit.com/map.tianditu.gov.cn",
             "url": "https://map.tianditu.gov.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730702193894,
+            "title": "电子书格式转换 – 转换PDF和其它格式的电子图书",
+            "icon": "https://logo.clearbit.com/toepub.com",
+            "url": "https://toepub.com/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730715093323,
+            "title": "GitHub代码搜索--context:global - Sourcegraph",
+            "icon": "https://logo.clearbit.com/sourcegraph.com",
+            "url": "https://sourcegraph.com/search"
+          },
+          {
+            "type": "link",
+            "addDate": 1730733170355,
+            "title": "自动剪辑--Gling - AI Video Editing Software for YouTube",
+            "icon": "https://logo.clearbit.com/www.gling.ai",
+            "url": "https://www.gling.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730735785043,
+            "title": "视频放大解说--Pointa | Make eye-catching videos with dynamic zoom effects, in minutes.",
+            "icon": "https://logo.clearbit.com/www.pointa.video",
+            "url": "https://www.pointa.video/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730790951828,
+            "title": "中医- 大青龙经方学习录",
+            "icon": "https://logo.clearbit.com/www.daqinglong.com",
+            "url": "https://www.daqinglong.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730875707878,
+            "title": "背景抠图--Remove Background WebGPU - a Hugging Face Space by Xenova",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/Xenova/remove-background-webgpu"
+          },
+          {
+            "type": "link",
+            "addDate": 1731056274822,
+            "title": "安卓应用下载--⚡ APKCombo - #1 APK Downloader",
+            "icon": "https://logo.clearbit.com/apkcombo.com",
+            "url": "https://apkcombo.com/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731056467720,
+            "title": "AI助手--一鍵生成式AI人工智能 | 免费AI",
+            "icon": "https://logo.clearbit.com/east.im",
+            "url": "https://east.im/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731061142940,
+            "title": "全球最大的数字图书馆--FullText search",
+            "icon": "https://logo.clearbit.com/z-lib.id",
+            "url": "https://z-lib.id/fulltext?q="
+          },
+          {
+            "type": "link",
+            "addDate": 1731141377038,
+            "title": "iCraft Editor - 3D架构图绘制工具",
+            "icon": "https://logo.clearbit.com/icraft.gantcloud.com",
+            "url": "https://icraft.gantcloud.com/zh-CN"
           }
         ]
       },
@@ -5531,8 +5573,99 @@
             "title": "世界在线广播电台--Radio Swiss Jazz, Basel - listen online for free",
             "icon": "https://logo.clearbit.com/radiostay.com",
             "url": "https://radiostay.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1730618749472,
+            "title": "数字人口播",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730618755148,
+                "title": "Home - D-ID",
+                "icon": "https://logo.clearbit.com/studio.d-id.com",
+                "url": "https://studio.d-id.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730618794869,
+                "title": "Dashboard - Runway",
+                "icon": "https://logo.clearbit.com/app.runwayml.com",
+                "url": "https://app.runwayml.com/video-tools/teams/rossi_thomas/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1730617271148,
+                "title": "Cartesia Playground",
+                "icon": "https://logo.clearbit.com/play.cartesia.ai",
+                "url": "https://play.cartesia.ai/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1718532647909,
+            "title": "TTS",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718532651882,
+                "title": "Text To Speech - 在线文本转语音",
+                "icon": "https://logo.clearbit.com/www.text-to-speech.cn",
+                "url": "https://www.text-to-speech.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718532658646,
+                "title": "TTS Online.海豚Ai",
+                "icon": "https://logo.clearbit.com/www.ttson.cn",
+                "url": "https://www.ttson.cn/"
+              }
+            ]
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1731058694339,
+        "title": "English",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1731058632781,
+            "title": "Youtube的视频资源查找单词发音--How to Pronounce English Like a Native | Youglish",
+            "icon": "https://logo.clearbit.com/youglish.com",
+            "url": "https://youglish.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731058775864,
+            "title": "YouTube字幕搜索工具--Filmot - Search in Youtube captions and subtitles",
+            "icon": "https://logo.clearbit.com/filmot.com",
+            "url": "https://filmot.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731059282377,
+            "title": "Language Reactor - Chatbot",
+            "icon": "https://logo.clearbit.com/www.languagereactor.com",
+            "url": "https://www.languagereactor.com/phrasepump"
+          },
+          {
+            "type": "link",
+            "addDate": 1731059489646,
+            "title": "WhatPoliticsSay.com | Gigantic US Politics Video Base - Search the Truth with Millions of Short Videos",
+            "icon": "https://logo.clearbit.com/www.whatpoliticssay.com",
+            "url": "https://www.whatpoliticssay.com/#/search?language=en"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1730539869217,
+        "title": "书签管理",
+        "icon": "https://logo.clearbit.com/books.luoxi.me",
+        "url": "https://books.luoxi.me/"
       }
     ]
   },
@@ -6618,6 +6751,13 @@
         "title": "八九十年代的经典习电影--Erotic Movies - Watch softcore erotic adult movies full in HD and free!",
         "icon": "https://logo.clearbit.com/eroticmv.com",
         "url": "https://eroticmv.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1730869674667,
+        "title": "Best PDF Converter: Create, Convert PDF Files Online (FREE)",
+        "icon": "https://logo.clearbit.com/www.freepdfconvert.com",
+        "url": "https://www.freepdfconvert.com/"
       }
     ]
   }

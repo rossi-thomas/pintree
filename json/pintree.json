@@ -134,23 +134,9 @@
                   {
                     "type": "link",
                     "addDate": 1600132559000,
-                    "title": "Smartmockups - Free product mockup generator",
-                    "icon": "https://logo.clearbit.com/smartmockups.com",
-                    "url": "https://smartmockups.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
                     "title": "Device Shots — Device Mockups for Social Platforms",
                     "icon": "https://logo.clearbit.com/deviceshots.com",
                     "url": "https://deviceshots.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1600228319000,
-                    "title": "https://previewed.app/",
-                    "icon": "https://logo.clearbit.com/previewed.app",
-                    "url": "https://previewed.app/"
                   }
                 ]
               },
@@ -260,7 +246,7 @@
                   {
                     "type": "link",
                     "addDate": 1600132559000,
-                    "title": "Trianglify.io · Low Poly Pattern Generator",
+                    "title": "Trianglify.io-制定背景颜色图片",
                     "icon": "https://logo.clearbit.com/trianglify.io",
                     "url": "https://trianglify.io/"
                   },
@@ -280,66 +266,10 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1658567406000,
-                    "title": "Spark Business. Free PowerPoint Template & Google Slides Theme",
-                    "icon": "https://logo.clearbit.com/www.slidescarnival.com",
-                    "url": "https://www.slidescarnival.com/messala-free-presentation-template/14696"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1692886071089,
                     "title": "AboutPPT导航 | PPT演示设计网址导航",
                     "icon": "https://logo.clearbit.com/www.aboutppt.com",
                     "url": "https://www.aboutppt.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692886071087,
-                    "title": "HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载",
-                    "icon": "https://logo.clearbit.com/www.hippter.com",
-                    "url": "http://www.hippter.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1692886071079,
-                    "title": "素材天下网-PSD素材免费下载-矢量素材-PPT模板-设计素材免费下载网站",
-                    "icon": "https://logo.clearbit.com/www.sucaitianxia.net",
-                    "url": "http://www.sucaitianxia.net/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1659163634605,
-                "title": "UI设计",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "MephoBox |网页设计和网站的启示",
-                    "icon": "https://logo.clearbit.com/box.mepholio.com",
-                    "url": "http://box.mepholio.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "GUI设计框架 - 免费矢量图标，图形用户界面元素的网页设计师",
-                    "icon": "https://logo.clearbit.com/www.webalys.com",
-                    "url": "http://www.webalys.com/design-interface-application-framework.php"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "Serena Software helps organizations orchestrate their application development, IT and business processes.",
-                    "icon": "https://logo.clearbit.com/www.serena.com",
-                    "url": "http://www.serena.com/index.php/en/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "Interactive Wireframe Software & Mockup Tool | Axure",
-                    "icon": "https://logo.clearbit.com/www.axure.com",
-                    "url": "http://www.axure.com/"
                   }
                 ]
               }
@@ -352,10 +282,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1695050638767,
-                "title": "免费的在线影视网站汇总 - 不死鸟 - 分享为王官网",
-                "icon": "https://logo.clearbit.com/iui.su",
-                "url": "https://iui.su/531/"
+                "addDate": 1697071867020,
+                "title": "字幕库(zimuku) -- 字幕下载网站",
+                "icon": "https://logo.clearbit.com/zimuku.org",
+                "url": "https://zimuku.org/"
               },
               {
                 "type": "link",
@@ -363,13 +293,6 @@
                 "title": "布谷TV | 4K电影下载-免费下载4K电影、美剧、演示片、蓝光原盘，超高清、无水印！",
                 "icon": "https://logo.clearbit.com/www.bugutv.org",
                 "url": "https://www.bugutv.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1697071867020,
-                "title": "字幕库(zimuku) -- 字幕下载网站",
-                "icon": "https://logo.clearbit.com/zimuku.org",
-                "url": "https://zimuku.org/"
               },
               {
                 "type": "link",
@@ -1721,6 +1644,20 @@
                 "title": "关键词联想",
                 "icon": "https://logo.clearbit.com/whatdoyousuggest.net",
                 "url": "http://whatdoyousuggest.net/#|default|default"
+              },
+              {
+                "type": "link",
+                "addDate": 1600132559000,
+                "title": "GUI设计框架 - 免费矢量图标，图形用户界面元素的网页设计师",
+                "icon": "https://logo.clearbit.com/www.webalys.com",
+                "url": "http://www.webalys.com/design-interface-application-framework.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1732970985914,
+                "title": "佛经",
+                "icon": "https://logo.clearbit.com/www.buddhismtoronto.com",
+                "url": "https://www.buddhismtoronto.com/cs/index.php"
               }
             ]
           }
@@ -1780,13 +1717,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1703770319403,
-                "title": "Cloudflare优选IP",
-                "icon": "https://logo.clearbit.com/cloudflare.vmshop.org",
-                "url": "https://cloudflare.vmshop.org/"
-              },
-              {
-                "type": "link",
                 "addDate": 1714547518198,
                 "title": "DNS records for cdn-all.↗↘↗.eu.org",
                 "icon": "https://logo.clearbit.com/www.nslookup.io",
@@ -1808,13 +1738,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1727707806427,
-                "title": "微测-云服务监测平台",
-                "icon": "https://logo.clearbit.com/www.182682.xyz",
-                "url": "https://www.182682.xyz/"
-              },
-              {
-                "type": "link",
                 "addDate": 1728143726807,
                 "title": "SSL Server Test (Powered by Qualys SSL Labs)",
                 "icon": "https://logo.clearbit.com/www.ssllabs.com",
@@ -1827,13 +1750,6 @@
             "addDate": 1688222645754,
             "title": "IP查询",
             "children": [
-              {
-                "type": "link",
-                "addDate": 1682744147289,
-                "title": "My IP Address - Shows IPv4 & IPv6 | Blacklist IP Check - Hosting Info",
-                "icon": "https://logo.clearbit.com/myip.ms",
-                "url": "https://myip.ms/"
-              },
               {
                 "type": "link",
                 "addDate": 1684245483462,
@@ -1882,6 +1798,83 @@
                 "title": "IPCheck.ing - 查看我的 IP 地址 - 查询本机 IP 地址及归属地 - 查看 WebRTC 连接 IP - DNS 泄露检测 - 网速测试 - Jason Ng 阿禅开源作品",
                 "icon": "https://logo.clearbit.com/ipcheck.ing",
                 "url": "https://ipcheck.ing/#/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1659163634601,
+            "title": "Openwrt",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1600132559000,
+                "title": "【U-Boot】U-Boot 刷机方法大全 - OPENWRT专版 - 恩山无线论坛 - Powered by Discuz!",
+                "icon": "https://logo.clearbit.com/www.right.com.cn",
+                "url": "http://www.right.com.cn/forum/thread-154561-1-1.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1600132559000,
+                "title": "ftp://ftp.denx.de/pub/u-boot/ 的索引",
+                "icon": "https://logo.clearbit.com/ftp.denx.de",
+                "url": "ftp://ftp.denx.de/pub/u-boot/"
+              },
+              {
+                "type": "link",
+                "addDate": 1600132559000,
+                "title": "The U-Boot Archives",
+                "icon": "https://logo.clearbit.com/lists.denx.de",
+                "url": "https://lists.denx.de/pipermail/u-boot/"
+              },
+              {
+                "type": "link",
+                "addDate": 1600132559000,
+                "title": "ipkg.be :: OpenWrt Package Repository Tracker",
+                "icon": "https://logo.clearbit.com/www.ipkg.be",
+                "url": "https://www.ipkg.be/"
+              },
+              {
+                "type": "link",
+                "addDate": 1600132559000,
+                "title": "OpenWrt简体中文Wiki [OpenWrt Wiki]",
+                "icon": "https://logo.clearbit.com/wiki.openwrt.org",
+                "url": "https://wiki.openwrt.org/zh-cn/start"
+              },
+              {
+                "type": "link",
+                "addDate": 1734076007184,
+                "title": "immortalwrt/immortalwrt: An opensource OpenWrt variant for mainland China users.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/immortalwrt/immortalwrt"
+              },
+              {
+                "type": "link",
+                "addDate": 1617936539000,
+                "title": "[OpenWrt Wiki] 使用手册",
+                "icon": "https://logo.clearbit.com/openwrt.org",
+                "url": "https://openwrt.org/zh/docs/guide-user/start"
+              },
+              {
+                "type": "link",
+                "addDate": 1733990736228,
+                "title": "KoolCenter 固件下载服务器",
+                "icon": "https://logo.clearbit.com/fw.koolcenter.com",
+                "url": "https://fw.koolcenter.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1734072517204,
+                "title": "Kwrt(OpenWrt)软路由固件下载与在线定制编译",
+                "icon": "https://logo.clearbit.com/openwrt.ai",
+                "url": "https://openwrt.ai/?target=x86%2F64&id=generic"
+              },
+              {
+                "type": "link",
+                "addDate": 1734083033620,
+                "title": "OpenWrt Downloads",
+                "icon": "https://logo.clearbit.com/dl.openwrt.ai",
+                "url": "https://dl.openwrt.ai/firmware/x86_64/"
               }
             ]
           },
@@ -2104,83 +2097,48 @@
                     "title": "更多科学上网工具 - Clash Verge",
                     "icon": "https://logo.clearbit.com/clashverge.net",
                     "url": "https://clashverge.net/other_tools/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1659163634600,
-                "title": "免费节点/订阅",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "免费上网账号",
-                    "icon": "https://logo.clearbit.com/free-ss.site",
-                    "url": "https://free-ss.site/"
                   },
                   {
                     "type": "link",
-                    "addDate": 1701251509793,
-                    "title": "免费加速器节点|科学上网",
-                    "icon": "https://logo.clearbit.com/free.bcoderss.com",
-                    "url": "http://free.bcoderss.com/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1659163634601,
-                "title": "Openwrt",
-                "children": [
+                    "addDate": 1733984052565,
+                    "title": "介绍 - v2rayA",
+                    "icon": "https://logo.clearbit.com/v2raya.org",
+                    "url": "https://v2raya.org/docs/prologue/introduction/"
+                  },
                   {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "【U-Boot】U-Boot 刷机方法大全 - OPENWRT专版 - 恩山无线论坛 - Powered by Discuz!",
-                    "icon": "https://logo.clearbit.com/www.right.com.cn",
-                    "url": "http://www.right.com.cn/forum/thread-154561-1-1.html"
+                    "type": "folder",
+                    "addDate": 1659163634600,
+                    "title": "免费节点/订阅",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1600132559000,
+                        "title": "免费上网账号",
+                        "icon": "https://logo.clearbit.com/free-ss.site",
+                        "url": "https://free-ss.site/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1701251509793,
+                        "title": "免费加速器节点|科学上网",
+                        "icon": "https://logo.clearbit.com/free.bcoderss.com",
+                        "url": "http://free.bcoderss.com/"
+                      }
+                    ]
                   },
                   {
                     "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "ftp://ftp.denx.de/pub/u-boot/ 的索引",
-                    "icon": "https://logo.clearbit.com/ftp.denx.de",
-                    "url": "ftp://ftp.denx.de/pub/u-boot/"
+                    "addDate": 1734794775627,
+                    "title": "Launch your website, ideas, and future - Spaceship",
+                    "icon": "https://logo.clearbit.com/www.spaceship.com",
+                    "url": "https://www.spaceship.com/"
                   },
                   {
                     "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "The U-Boot Archives",
-                    "icon": "https://logo.clearbit.com/lists.denx.de",
-                    "url": "https://lists.denx.de/pipermail/u-boot/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "ipkg.be :: OpenWrt Package Repository Tracker",
-                    "icon": "https://logo.clearbit.com/www.ipkg.be",
-                    "url": "https://www.ipkg.be/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1600132559000,
-                    "title": "OpenWrt简体中文Wiki [OpenWrt Wiki]",
-                    "icon": "https://logo.clearbit.com/wiki.openwrt.org",
-                    "url": "https://wiki.openwrt.org/zh-cn/start"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1609556230000,
-                    "title": "Deployment — Portainer 1.23.2 documentation",
-                    "icon": "https://logo.clearbit.com/portainer.readthedocs.io",
-                    "url": "https://portainer.readthedocs.io/en/stable/deployment.html#"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1617936539000,
-                    "title": "[OpenWrt Wiki] 使用手册",
-                    "icon": "https://logo.clearbit.com/openwrt.org",
-                    "url": "https://openwrt.org/zh/docs/guide-user/start"
+                    "addDate": 1734857321822,
+                    "title": "ZeroTier | Global Networking Solution for IoT, SD-WAN, and VPN",
+                    "icon": "https://logo.clearbit.com/www.zerotier.com",
+                    "url": "https://www.zerotier.com/"
                   }
                 ]
               },
@@ -3382,25 +3340,39 @@
             "title": "视频素材|下载",
             "children": [
               {
-                "type": "link",
-                "addDate": 1714902834285,
-                "title": "RED小红书无水印下载 - Download Panda - DLPanda",
-                "icon": "https://logo.clearbit.com/dlpanda.com",
-                "url": "https://dlpanda.com/zh-CN/xiaohongshu#/google_vignette"
-              },
-              {
-                "type": "link",
-                "addDate": 1688311094045,
-                "title": "SaveFrom video downloader online. Download Youtube, Instagram, Twitter and Facebook videos with SaveFrom.",
-                "icon": "https://logo.clearbit.com/savefrom.app",
-                "url": "https://savefrom.app/1"
-              },
-              {
-                "type": "link",
-                "addDate": 1721539143580,
-                "title": "Youtube Downloader - Free Online Youtube Video Downloader | vget.xyz",
-                "icon": "https://logo.clearbit.com/vget.xyz",
-                "url": "https://vget.xyz/"
+                "type": "folder",
+                "addDate": 1733970921240,
+                "title": "youtube",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1733971014563,
+                    "title": "Downmp3.yt: 最终的YouTube转MP3转换器",
+                    "icon": "https://logo.clearbit.com/downmp3.yt",
+                    "url": "https://downmp3.yt/zhUb/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1688311094045,
+                    "title": "SaveFrom video downloader online. Download Youtube, Instagram, Twitter and Facebook videos with SaveFrom.",
+                    "icon": "https://logo.clearbit.com/savefrom.app",
+                    "url": "https://savefrom.app/1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1733970945136,
+                    "title": "YT1D：在線視頻下載器|YouTube 下載器 (1080p)",
+                    "icon": "https://logo.clearbit.com/yt1d.com",
+                    "url": "https://yt1d.com/zh-tw"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1733970958034,
+                    "title": "YouTube 转 MP3 320kbps 工具：无需注册或登录",
+                    "icon": "https://logo.clearbit.com/ddownr.com",
+                    "url": "https://ddownr.com/zhRD/"
+                  }
+                ]
               },
               {
                 "type": "link",
@@ -3408,6 +3380,13 @@
                 "title": "cobalt",
                 "icon": "https://logo.clearbit.com/cobalt.tools",
                 "url": "https://cobalt.tools/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714902834285,
+                "title": "RED小红书无水印下载 - Download Panda - DLPanda",
+                "icon": "https://logo.clearbit.com/dlpanda.com",
+                "url": "https://dlpanda.com/zh-CN/xiaohongshu#/google_vignette"
               },
               {
                 "type": "link",
@@ -3632,6 +3611,13 @@
                     "url": "https://spotifydown.com/"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1732204072130,
+                "title": "音乐魔石官网-全网无损音乐mp3歌曲免费下载网站",
+                "icon": "https://logo.clearbit.com/yym4.com",
+                "url": "https://yym4.com/"
               }
             ]
           },
@@ -4185,6 +4171,160 @@
                 "title": "超级下载工具--FileCentipede/README.zh-CN.md at main · filecxx/FileCentipede",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/filecxx/FileCentipede/blob/main/README.zh-CN.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1732112793179,
+                "title": "vsme/chinese-days: 中国节假日、调休日、工作日、24节气查询，农历阳历互转，支持 TS、CommonJS、UMD 模块化使用，对于非开发者，提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/vsme/chinese-days"
+              },
+              {
+                "type": "link",
+                "addDate": 1732183638514,
+                "title": "k4yt3x/video2x: A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/k4yt3x/video2x"
+              },
+              {
+                "type": "link",
+                "addDate": 1732368783417,
+                "title": "TTPlanetPig/Comfyui_Object_Migration: This is a study aim to transfer the single concept by using DIT model self-attention capablity",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/TTPlanetPig/Comfyui_Object_Migration"
+              },
+              {
+                "type": "link",
+                "addDate": 1732604776045,
+                "title": "TeamWiseFlow/wiseflow: Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and uploads them to the database.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/TeamWiseFlow/wiseflow?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1732696697068,
+                "title": "soimort/you-get: :arrow_double_down: Dumb downloader that scrapes the web",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/soimort/you-get?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1732699453155,
+                "title": "aotakeda/learn-thing: Create mind maps to learn new things using AI.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/aotakeda/learn-thing"
+              },
+              {
+                "type": "link",
+                "addDate": 1732889281285,
+                "title": "EcoPasteHub/EcoPaste: 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/EcoPasteHub/EcoPaste"
+              },
+              {
+                "type": "link",
+                "addDate": 1733210946875,
+                "title": "oop7/YTSage: Modern YouTube downloader with a clean PyQt6 interface. Download videos in any quality, extract audio, fetch subtitles (including auto-generated), and view video metadata. Built with yt-dlp for reliable performance.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/oop7/YTSage"
+              },
+              {
+                "type": "link",
+                "addDate": 1733213580716,
+                "title": "lfnovo/open-notebook: An Open Source implementation of Notebook LM with more flexibility and features",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/lfnovo/open-notebook"
+              },
+              {
+                "type": "link",
+                "addDate": 1733220280524,
+                "title": "微信多开--RICwang/docker-wechat: 在docker里运行wechat，可以通过web或者VNC访问wechat",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/RICwang/docker-wechat"
+              },
+              {
+                "type": "link",
+                "addDate": 1733393414713,
+                "title": "dullage/flatnotes: A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/dullage/flatnotes"
+              },
+              {
+                "type": "link",
+                "addDate": 1733497155368,
+                "title": "网站导航--pawelmalak/flame: Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/pawelmalak/flame"
+              },
+              {
+                "type": "link",
+                "addDate": 1733748396735,
+                "title": "stonith404/pingvin-share: A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/stonith404/pingvin-share"
+              },
+              {
+                "type": "link",
+                "addDate": 1733823722819,
+                "title": "codeskyblue/gohttpserver Tags | Docker Hub",
+                "icon": "https://logo.clearbit.com/registry.hub.docker.com",
+                "url": "https://registry.hub.docker.com/r/codeskyblue/gohttpserver/tags"
+              },
+              {
+                "type": "link",
+                "addDate": 1733823733996,
+                "title": "usememos/memos: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/usememos/memos"
+              },
+              {
+                "type": "link",
+                "addDate": 1733836467984,
+                "title": "xhofe/alist - Docker Image | Docker Hub",
+                "icon": "https://logo.clearbit.com/registry.hub.docker.com",
+                "url": "https://registry.hub.docker.com/r/xhofe/alist/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733998079290,
+                "title": "wisupai/e2m: E2M converts various file types (doc, docx, epub, html, htm, url, pdf, ppt, pptx, mp3, m4a) into Markdown. It’s easy to install, with dedicated parsers and converters, supporting custom configs. E2M offers an all-in-one, flexible, and open-source solution.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/wisupai/e2m"
+              },
+              {
+                "type": "link",
+                "addDate": 1734057461914,
+                "title": "cmliu/edgetunnel: 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/cmliu/edgetunnel"
+              },
+              {
+                "type": "link",
+                "addDate": 1734497200500,
+                "title": "多台计算机之间共享一个鼠标和键盘--deskflow/deskflow: Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/deskflow/deskflow?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1734509849672,
+                "title": "hkchengrex/MMAudio: [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/hkchengrex/MMAudio?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1734529582120,
+                "title": "xisuo67/XHS-Spider: 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）Telegram:https://t.me/+ZtLSwuIKTo44MDY1",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/xisuo67/XHS-Spider?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1734618394479,
+                "title": "getgridea/gridea: ✍️ A static blog writing client (一个静态博客写作客户端)",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/getgridea/gridea"
               }
             ]
           },
@@ -4360,6 +4500,13 @@
                 "title": "Austin's Bio page",
                 "icon": "https://logo.clearbit.com/the.top",
                 "url": "https://the.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1734072391412,
+                "title": "奶油之家 – 换个角度，你会发现不一样的美！",
+                "icon": "https://logo.clearbit.com/naiyous.com",
+                "url": "https://naiyous.com/"
               }
             ]
           },
@@ -4402,6 +4549,20 @@
                 "title": "OneIMG",
                 "icon": "https://logo.clearbit.com/oneimgai.com",
                 "url": "https://oneimgai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732099273025,
+                "title": "卡片链接--DrawLink - Transform URLs into Beautiful Visual Cards",
+                "icon": "https://logo.clearbit.com/drawl.ink",
+                "url": "https://drawl.ink/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720169452512,
+                "title": "文字变图片格式--A Free Text to Image Service by IMGBun with REST API",
+                "icon": "https://logo.clearbit.com/imgbun.com",
+                "url": "https://imgbun.com/"
               }
             ]
           },
@@ -4463,15 +4624,21 @@
                 "type": "folder",
                 "addDate": 1726549685415,
                 "title": "Ai声音克隆",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1719068145377,
-                    "title": "AI克隆声音--REECHO 睿声 - 超拟真AI语音合成与瞬时克隆平台",
-                    "icon": "https://logo.clearbit.com/dash.reecho.ai",
-                    "url": "https://dash.reecho.ai/login"
-                  }
-                ]
+                "children": []
+              },
+              {
+                "type": "link",
+                "addDate": 1733149448109,
+                "title": "Reecho睿声 - 超拟真语音合成与瞬时克隆平台",
+                "icon": "https://logo.clearbit.com/dash.reecho.ai",
+                "url": "https://dash.reecho.ai/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1733149762003,
+                "title": "Ai声音克隆--Hailuo AI Audio: Create lifelike speech",
+                "icon": "https://logo.clearbit.com/www.hailuo.ai",
+                "url": "https://www.hailuo.ai/audio"
               }
             ]
           },
@@ -4560,18 +4727,32 @@
               {
                 "type": "link",
                 "addDate": 1692886071088,
-                "title": "人声提取",
+                "title": "人声语音分离提取",
                 "icon": "https://logo.clearbit.com/vocalremover.org",
                 "url": "https://vocalremover.org/"
               },
               {
                 "type": "link",
                 "addDate": 1720251799465,
-                "title": "人声分离--Free Voice Isolator and Background Noise Remover | ElevenLabs",
+                "title": "人声语音分离--Free Voice Isolator and Background Noise Remover | ElevenLabs",
                 "icon": "https://logo.clearbit.com/elevenlabs.io",
                 "url": "https://elevenlabs.io/voice-isolator"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1733907023775,
+            "title": "www1.chongqing.cn.eu.org:3000/asher/panel/",
+            "icon": "https://logo.clearbit.com/www1.chongqing.cn.eu.org",
+            "url": "https://www1.chongqing.cn.eu.org:3000/asher/panel/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733727594692,
+            "title": "www.chongqing.cn.eu.org-欢迎",
+            "icon": "https://logo.clearbit.com/www.chongqing.cn.eu.org",
+            "url": "https://www.chongqing.cn.eu.org:3000/asher/"
           },
           {
             "type": "link",
@@ -4586,13 +4767,6 @@
             "title": "WildCard | 一分钟注册，轻松订阅海外软件服务",
             "icon": "https://logo.clearbit.com/bewildcard.com",
             "url": "https://bewildcard.com/service"
-          },
-          {
-            "type": "link",
-            "addDate": 1728191219494,
-            "title": "www.chongqing.cn.eu.org-欢迎",
-            "icon": "https://logo.clearbit.com/www.chongqing.cn.eu.org",
-            "url": "https://www.chongqing.cn.eu.org:3000/rossi/"
           },
           {
             "type": "link",
@@ -4642,13 +4816,6 @@
             "title": "句子控 - 为您提供经典的句子、文案和诗词！",
             "icon": "https://logo.clearbit.com/www.juzikong.com",
             "url": "https://www.juzikong.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1720916082870,
-            "title": "欢迎使用X-UI-YG面板",
-            "icon": "https://logo.clearbit.com/www1.chongqing.cn.eu.org",
-            "url": "http://www1.chongqing.cn.eu.org:2345/rossi/"
           },
           {
             "type": "link",
@@ -4782,13 +4949,6 @@
             "title": "Ai写书模型--Streamlit",
             "icon": "https://logo.clearbit.com/groqbook.streamlit.app",
             "url": "https://groqbook.streamlit.app/"
-          },
-          {
-            "type": "link",
-            "addDate": 1720169452512,
-            "title": "文字变图片格式--A Free Text to Image Service by IMGBun with REST API",
-            "icon": "https://logo.clearbit.com/imgbun.com",
-            "url": "https://imgbun.com/"
           },
           {
             "type": "link",
@@ -5156,13 +5316,6 @@
           },
           {
             "type": "link",
-            "addDate": 1731685431387,
-            "title": "Ai画笔涂鸦设计--MagicQuill - a Hugging Face Space by AI4Editing",
-            "icon": "https://logo.clearbit.com/huggingface.co",
-            "url": "https://huggingface.co/spaces/AI4Editing/MagicQuill"
-          },
-          {
-            "type": "link",
             "addDate": 1731771488536,
             "title": "Ai图层绘画-Blendbox.ai",
             "icon": "https://logo.clearbit.com/app.blendbox.ai",
@@ -5188,6 +5341,286 @@
             "title": "在线记事本--Online Notepad - Free & Fast Text Editor | Hyper Notepad",
             "icon": "https://logo.clearbit.com/hypernotepad.com",
             "url": "https://hypernotepad.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732113084842,
+            "title": "以图搜诗词--五十弦",
+            "icon": "https://logo.clearbit.com/www.wushixian.info",
+            "url": "https://www.wushixian.info/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732182713644,
+            "title": "URL在各平台的展示效果--Linkpreview - Check your website og image, meta tags, favicon, etc.",
+            "icon": "https://logo.clearbit.com/linkpreview.xyz",
+            "url": "https://linkpreview.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732183353952,
+            "title": "icon图标制作--Isocons",
+            "icon": "https://logo.clearbit.com/www.isocons.app",
+            "url": "https://www.isocons.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732184253306,
+            "title": "Ai在线换衣--Kolors Virtual Try-On - a Hugging Face Space by Kwai-Kolors",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On"
+          },
+          {
+            "type": "link",
+            "addDate": 1732204099295,
+            "title": "地图搜租房：多平台房源检索引擎",
+            "icon": "https://logo.clearbit.com/house2048.cn",
+            "url": "https://house2048.cn/app/house-map/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732286799335,
+            "title": "加水印-jiashuiyin.com",
+            "icon": "https://logo.clearbit.com/jiashuiyin.com",
+            "url": "https://jiashuiyin.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732628067469,
+            "title": "AI在线衣服试穿--OOTDiffusion - a Hugging Face Space by levihsu",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/levihsu/OOTDiffusion"
+          },
+          {
+            "type": "link",
+            "addDate": 1732694368947,
+            "title": "免费英文字体--Best Free Fonts",
+            "icon": "https://logo.clearbit.com/bestfreefonts.com",
+            "url": "https://bestfreefonts.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732694556345,
+            "title": "自定义生成头像--Animated Art Avatar",
+            "icon": "https://logo.clearbit.com/animate-avatar.netlify.app",
+            "url": "https://animate-avatar.netlify.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732696970557,
+            "title": "影神图 - 黑神话悟空妖怪图鉴",
+            "icon": "https://logo.clearbit.com/yingshentu.xiaobaoku.cc",
+            "url": "https://yingshentu.xiaobaoku.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732701898002,
+            "title": "AI字幕剪辑-Riverside.FM | Dashboard",
+            "icon": "https://logo.clearbit.com/riverside.fm",
+            "url": "https://riverside.fm/dashboard/studios/s-studio-JWQIq/projects"
+          },
+          {
+            "type": "link",
+            "addDate": 1732980489448,
+            "title": "[官方] HitPaw Edimakor - 創造令人驚嘆的人工智慧影片編輯器",
+            "icon": "https://logo.clearbit.com/edimakor.hitpaw.tw",
+            "url": "https://edimakor.hitpaw.tw/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733031177489,
+            "title": "PDF转换-MinerU - a Hugging Face Space by opendatalab",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/opendatalab/MinerU"
+          },
+          {
+            "type": "link",
+            "addDate": 1733032000939,
+            "title": "临时邮件+虚拟信息SwapCode - Fluent email service",
+            "icon": "https://logo.clearbit.com/swapco.de",
+            "url": "https://swapco.de/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733067297573,
+            "title": "Ai代码生成--Qwen2.5 Coder Artifacts - a Hugging Face Space by Qwen",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts"
+          },
+          {
+            "type": "link",
+            "addDate": 1733116853961,
+            "title": "AI 故事拓展--Storyteller",
+            "icon": "https://logo.clearbit.com/www.ai-storyteller.org",
+            "url": "https://www.ai-storyteller.org/?utm_source=maomaoyu.coffee"
+          },
+          {
+            "type": "link",
+            "addDate": 1733123497071,
+            "title": "Ai老照片动画--Animate Old Photos Online & Free | Bring Memories to Life with AI",
+            "icon": "https://logo.clearbit.com/animateoldphotos.org",
+            "url": "https://animateoldphotos.org/?utm_source=maomaoyu.coffee"
+          },
+          {
+            "type": "link",
+            "addDate": 1733123709257,
+            "title": "AI logo设计--Design A New Logo & Brand Identity You Love! - LogoAI.com",
+            "icon": "https://logo.clearbit.com/www.logoai.com",
+            "url": "https://www.logoai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733128180155,
+            "title": "AI代码部署--v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733128337543,
+            "title": "2024年最佳和最新AI工具集合",
+            "icon": "https://logo.clearbit.com/www.maomaoyu.coffee",
+            "url": "https://www.maomaoyu.coffee/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1733132182525,
+            "title": "RoutineHub • 用于发现、共享和版本控制 Apple 快捷方式的社区 --- RoutineHub • Your Community for Discovering, Sharing, and Version Controlling Apple Shortcuts",
+            "icon": "https://logo.clearbit.com/routinehub.co",
+            "url": "https://routinehub.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733211288572,
+            "title": "A图片打光--IC Light V2-Vary - a Hugging Face Space by lllyasviel",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/lllyasviel/iclight-v2-vary"
+          },
+          {
+            "type": "link",
+            "addDate": 1733213655074,
+            "title": "AI反图片换装--TryOffDiff - a Hugging Face Space by rizavelioglu",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/rizavelioglu/tryoffdiff"
+          },
+          {
+            "type": "link",
+            "addDate": 1733220075512,
+            "title": "AI图片高清修复--CodeFormer - a Hugging Face Space by sczhou",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/sczhou/CodeFormer"
+          },
+          {
+            "type": "link",
+            "addDate": 1733451524720,
+            "title": "简明字帖-练字字帖-汉字笔顺-汉字拼音-描字-描红-字帖生成器",
+            "icon": "https://logo.clearbit.com/www.babawar.com",
+            "url": "https://www.babawar.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733481533842,
+            "title": "Ai声音合成--Fish Audio: Free Generative AI Text To Speech & Voice Cloning",
+            "icon": "https://logo.clearbit.com/fish.audio",
+            "url": "https://fish.audio/zh-CN/discovery/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733817193328,
+            "title": "Ai声音提取--ClearerVoice-Studio (Speech Enhancement, Separation and Extraction) - a Hugging Face Space by alibabasglab",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/alibabasglab/ClearVoice"
+          },
+          {
+            "type": "link",
+            "addDate": 1734528789257,
+            "title": "轻快标图 - 轻量图片标注工具，丰富功能一键导出",
+            "icon": "https://logo.clearbit.com/www.markerapp.site",
+            "url": "https://www.markerapp.site/zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734529613650,
+            "title": "两张图片视频生成--AI Kissing Video Generator",
+            "icon": "https://logo.clearbit.com/aikissingvideo.net",
+            "url": "https://aikissingvideo.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734710853399,
+            "title": "AI文档翻译 | 支持pdf/pptx/xlsx/epub/srt/html等文件的在线翻译",
+            "icon": "https://logo.clearbit.com/translate.simplifyai.cn",
+            "url": "https://translate.simplifyai.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734711036541,
+            "title": "Ai代码生成-CerebrasCoder",
+            "icon": "https://logo.clearbit.com/cerebrascoder.com",
+            "url": "https://cerebrascoder.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734846126628,
+            "title": "带壳截图--Beautify Screenshots",
+            "icon": "https://logo.clearbit.com/postspark.app",
+            "url": "https://postspark.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734857310924,
+            "title": "New Tab",
+            "icon": "https://logo.clearbit.com/zerotier.com",
+            "url": "https://zerotier.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735015356946,
+            "title": "劳法计算器",
+            "icon": "https://logo.clearbit.com/web.laofa.com",
+            "url": "https://web.laofa.com/calculator/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735015411680,
+            "title": "进口原研药目录",
+            "icon": "https://logo.clearbit.com/medicine.lvwzhen.com",
+            "url": "https://medicine.lvwzhen.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735015457493,
+            "title": "AI 证件照制作",
+            "icon": "https://logo.clearbit.com/swanhub.co",
+            "url": "https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo"
+          },
+          {
+            "type": "link",
+            "addDate": 1735015584565,
+            "title": "AI音效生成器：免费文字转音效",
+            "icon": "https://logo.clearbit.com/tiktokvoice.net",
+            "url": "https://tiktokvoice.net/zh/sounds-effect"
+          },
+          {
+            "type": "link",
+            "addDate": 1735015626034,
+            "title": "使用Slea.ai免费AI Logo生成器创建专业Logo",
+            "icon": "https://logo.clearbit.com/slea.ai",
+            "url": "https://slea.ai/zh-CN/app"
+          },
+          {
+            "type": "link",
+            "addDate": 1735015787314,
+            "title": "Image Describer X - 免费AI图像描述工具，让每张图片都能说话",
+            "icon": "https://logo.clearbit.com/image-describer.com",
+            "url": "https://image-describer.com/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1735015972581,
+            "title": "在线工具导航网站 - 黑点工具",
+            "icon": "https://logo.clearbit.com/hddtool.com",
+            "url": "https://hddtool.com/"
           }
         ]
       },
@@ -5260,6 +5693,13 @@
             "url": "https://duckduckgo.com/?q=DuckDuckGo&ia=chat"
           },
           {
+            "type": "link",
+            "addDate": 1732202752905,
+            "title": "New Chat | glhf.chat",
+            "icon": "https://logo.clearbit.com/glhf.chat",
+            "url": "https://glhf.chat/chat/create"
+          },
+          {
             "type": "folder",
             "addDate": 1729322472278,
             "title": "私有部署Ai",
@@ -5279,6 +5719,48 @@
                 "url": "https://bolt.luoxi.me/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1732804359787,
+            "title": "Raghut - AI Tools Discovery Platform",
+            "icon": "https://logo.clearbit.com/www.raghut.com",
+            "url": "https://www.raghut.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732804379164,
+            "title": "Ai代码生成--Srcbook",
+            "icon": "https://logo.clearbit.com/srcbook.com",
+            "url": "https://srcbook.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732859657388,
+            "title": "Le Chat - Mistral AI",
+            "icon": "https://logo.clearbit.com/chat.mistral.ai",
+            "url": "https://chat.mistral.ai/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1732872201591,
+            "title": "SiliconFlow, Accelerate AGI to Benefit Humanity",
+            "icon": "https://logo.clearbit.com/siliconflow.cn",
+            "url": "https://siliconflow.cn/zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732890534651,
+            "title": "Chat Blackbox: AI Code Generation, Code Chat, Code Search",
+            "icon": "https://logo.clearbit.com/www.blackbox.ai",
+            "url": "https://www.blackbox.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733067577889,
+            "title": "Free AI Chat | Chat with GPT4o/Claude/Gemini Online | Felo Chat",
+            "icon": "https://logo.clearbit.com/chat.felo.ai",
+            "url": "https://chat.felo.ai/"
           }
         ]
       },
@@ -5350,19 +5832,19 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1689093374544,
-                "title": "AI音乐生成器 Waveformer",
-                "icon": "https://logo.clearbit.com/waveformer.replicate.dev",
-                "url": "https://waveformer.replicate.dev/"
-              },
-              {
-                "type": "link",
                 "addDate": 1689129281622,
                 "title": "AI music facebookresearch/musicgen – Run with an API on Replicate",
                 "icon": "https://logo.clearbit.com/replicate.com",
                 "url": "https://replicate.com/facebookresearch/musicgen"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1693555554790,
+            "title": "人声去除器和器乐 AI 分配器 | 拉拉尔.AI",
+            "icon": "https://logo.clearbit.com/www.lalal.ai",
+            "url": "https://www.lalal.ai/"
           },
           {
             "type": "link",
@@ -5503,13 +5985,6 @@
             "title": "AI混合器 - Artbreeder",
             "icon": "https://logo.clearbit.com/www.artbreeder.com",
             "url": "https://www.artbreeder.com/create/mixer"
-          },
-          {
-            "type": "link",
-            "addDate": 1693555554790,
-            "title": "人声去除器和器乐 AI 分配器 | 拉拉尔.AI",
-            "icon": "https://logo.clearbit.com/www.lalal.ai",
-            "url": "https://www.lalal.ai/"
           },
           {
             "type": "link",
@@ -5680,11 +6155,81 @@
         "title": "Podcast",
         "children": [
           {
-            "type": "link",
-            "addDate": 1730359037105,
-            "title": "AI举牌英文字母--PuLID-FLUX - a Hugging Face Space by yanze",
-            "icon": "https://logo.clearbit.com/huggingface.co",
-            "url": "https://huggingface.co/spaces/yanze/PuLID-FLUX"
+            "type": "folder",
+            "addDate": 1732717544950,
+            "title": "AI图片生成|设计",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731685431387,
+                "title": "Ai画笔涂鸦设计--MagicQuill - a Hugging Face Space by AI4Editing",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/spaces/AI4Editing/MagicQuill"
+              },
+              {
+                "type": "link",
+                "addDate": 1732627248430,
+                "title": "Ai图片主题修改生产--OminiControl - a Hugging Face Space by Yuanshi",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/spaces/Yuanshi/OminiControl"
+              },
+              {
+                "type": "link",
+                "addDate": 1731252223475,
+                "title": "glif - Flux Ultra",
+                "icon": "https://logo.clearbit.com/glif.app",
+                "url": "https://glif.app/@rossithomas/glifs/cm3bqstte000k6z0lm0nczn1v"
+              },
+              {
+                "type": "link",
+                "addDate": 1730359037105,
+                "title": "AI举牌英文字母--PuLID-FLUX - a Hugging Face Space by yanze",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/spaces/yanze/PuLID-FLUX"
+              },
+              {
+                "type": "link",
+                "addDate": 1732703953875,
+                "title": "Ai图片转视频(头脑风暴)--Luma Dream Machine | AI Video Generator",
+                "icon": "https://logo.clearbit.com/dream-machine.lumalabs.ai",
+                "url": "https://dream-machine.lumalabs.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732354226875,
+                "title": "logo Ai 生成样式 glif - 💫slap logo on anything💫 by dham",
+                "icon": "https://logo.clearbit.com/glif.app",
+                "url": "https://glif.app/@dham/glifs/cm3o7dfsd002610z48sz89yih"
+              },
+              {
+                "type": "link",
+                "addDate": 1733219933837,
+                "title": "即梦AI - 一站式AI创作平台",
+                "icon": "https://logo.clearbit.com/jimeng.jianying.com",
+                "url": "https://jimeng.jianying.com/ai-tool/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1734228524400,
+                "title": "KREA | Gallery",
+                "icon": "https://logo.clearbit.com/www.krea.ai",
+                "url": "https://www.krea.ai/feed"
+              },
+              {
+                "type": "link",
+                "addDate": 1734476719748,
+                "title": "Ai不同样式图片生成-Whisk",
+                "icon": "https://logo.clearbit.com/labs.google",
+                "url": "https://labs.google/fx/zh/tools/whisk"
+              },
+              {
+                "type": "link",
+                "addDate": 1734476861605,
+                "title": "Ai相似图片类型生成-ImageFX",
+                "icon": "https://logo.clearbit.com/labs.google",
+                "url": "https://labs.google/fx/zh/tools/image-fx"
+              }
+            ]
           },
           {
             "type": "link",
@@ -5718,6 +6263,20 @@
                 "title": "Cartesia Playground",
                 "icon": "https://logo.clearbit.com/play.cartesia.ai",
                 "url": "https://play.cartesia.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732628233371,
+                "title": "Ai数字人播报--DigenAI - AI Video Generator",
+                "icon": "https://logo.clearbit.com/apps.digen.ai",
+                "url": "https://apps.digen.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733128091475,
+                "title": "MukuAI：世界上第一家人工智能影响者机构",
+                "icon": "https://logo.clearbit.com/muku.ai",
+                "url": "https://muku.ai/zh-CN"
               }
             ]
           },
@@ -5741,13 +6300,6 @@
                 "url": "https://www.ttson.cn/"
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1731252223475,
-            "title": "glif - Flux Ultra",
-            "icon": "https://logo.clearbit.com/glif.app",
-            "url": "https://glif.app/@rossithomas/glifs/cm3bqstte000k6z0lm0nczn1v"
           }
         ]
       },
@@ -5827,6 +6379,27 @@
         "title": "书签管理",
         "icon": "https://logo.clearbit.com/books.luoxi.me",
         "url": "https://books.luoxi.me/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732284949967,
+        "title": "发现 | Follow",
+        "icon": "https://logo.clearbit.com/app.follow.is",
+        "url": "https://app.follow.is/discover?type=search"
+      },
+      {
+        "type": "link",
+        "addDate": 1732520073835,
+        "title": "AI读写助手--ReadPo - 10x Speed Up Your Reading and Writing",
+        "icon": "https://logo.clearbit.com/readpo.com",
+        "url": "https://readpo.com/zh"
+      },
+      {
+        "type": "link",
+        "addDate": 1732697691293,
+        "title": "BeaGo - Your AI Life Guide",
+        "icon": "https://logo.clearbit.com/www.beago.ai",
+        "url": "https://www.beago.ai/"
       }
     ]
   },
@@ -6919,6 +7492,27 @@
         "title": "Best PDF Converter: Create, Convert PDF Files Online (FREE)",
         "icon": "https://logo.clearbit.com/www.freepdfconvert.com",
         "url": "https://www.freepdfconvert.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732890792465,
+        "title": "LINUX-TUTORIAL-教程",
+        "icon": "https://logo.clearbit.com/dunwu.github.io",
+        "url": "https://dunwu.github.io/linux-tutorial/"
+      },
+      {
+        "type": "link",
+        "addDate": 1734356792203,
+        "title": "桌面壁纸--Wallpaper Engine Space",
+        "icon": "https://logo.clearbit.com/www.wallpaperengine.space",
+        "url": "https://www.wallpaperengine.space/"
+      },
+      {
+        "type": "link",
+        "addDate": 1734358935724,
+        "title": "抽象图片--Caricaturer.io | Dramatic Caricature Maker Online",
+        "icon": "https://logo.clearbit.com/www.caricaturer.io",
+        "url": "https://www.caricaturer.io/"
       }
     ]
   }
